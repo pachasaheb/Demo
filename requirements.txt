@@ -1,1 +1,6 @@
-
+flask
+sqlalchemy
+unittest2
+mock
+requests
+psycopg2-binary
