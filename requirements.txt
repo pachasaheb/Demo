@@ -3,4 +3,4 @@ sqlalchemy
 unittest2
 mock
 requests
-psycopg2
+
