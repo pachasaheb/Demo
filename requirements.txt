@@ -1,6 +1,6 @@
 flask
 sqlalchemy
-psycopg2-binary
 unitest2
 mock
 requests
+psycopg2-binary
