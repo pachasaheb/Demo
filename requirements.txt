@@ -1,6 +1,5 @@
 flask
 sqlalchemy
-psycopg2
 unitest2
 mock
 requests
