@@ -1,10 +1,5 @@
 flask
 sqlalchemy
-<<<<<<< HEAD
-unitest2
-=======
-unittest2
->>>>>>> 9ebb7998ba53de4137f8ababa3735048d70577f1
 mock
 requests
-psycopg2
+unittest2
