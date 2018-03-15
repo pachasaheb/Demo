@@ -11,11 +11,7 @@ class Config(object):
     SQLALCHEMY_TRACK_MODIFICATIONS = True
     # SET database connection string
     #db_string = "postgres://postgres:Password0@localhost:5432/featureapp"
-<<<<<<< HEAD
-	db_string = "postgres://featureappadmin:Feature123$@featureapp-tm-inslab.postgres.database.azure.com:5432/featurerequestappdb"
-=======
     db_string = "postgres://featureappadmin:Feature123$@featureapp-tm-inslab.postgres.database.azure.com:5432/featurerequestappdb"
->>>>>>> 9ebb7998ba53de4137f8ababa3735048d70577f1
     # an Engine, which the Session will use for connection
     db = create_engine(db_string)
     # Declarative, which allows us to create classes that include directives to describe the actual database table 
